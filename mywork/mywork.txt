@@ -1,0 +1,22 @@
+My associate id:
+845103
+Other team members:
+845103, 845100, 844773, 844774
+Team lead:
+844773
+My Role in team:
+1. To develop homepage, contact us page, view Order page
+My development files:
+1. index.html
+2. contact.html
+3. home.css
+4. contact.css
+5. contact.js
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+I was weak in:
+1. Storage session
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
